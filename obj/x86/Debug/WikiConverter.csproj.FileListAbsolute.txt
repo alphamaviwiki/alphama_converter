@@ -1,0 +1,25 @@
+F:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\AlphamaConverter.Converter.resources
+F:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\bin\Debug\Alphama Converter.exe
+F:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\bin\Debug\Alphama Converter.pdb
+F:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\Alphama Converter.Properties.Resources.resources
+F:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\Alphama Converter.exe
+F:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\Alphama Converter.pdb
+I:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\Alphama Converter.exe
+I:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\Alphama Converter.pdb
+I:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\bin\Debug\Alphama Converter.exe
+I:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\bin\Debug\Alphama Converter.pdb
+I:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\AlphamaConverter.Converter.resources
+I:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\Alphama Converter.Properties.Resources.resources
+I:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\WikiConverter.csprojResolveAssemblyReference.cache
+I:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\WikiConverter.csproj.GenerateResource.Cache
+E:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\Alphama Converter.exe
+E:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\Alphama Converter.pdb
+E:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\bin\Debug\Alphama Converter.exe
+E:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\bin\Debug\Alphama Converter.pdb
+E:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\WikiConverter.csprojResolveAssemblyReference.cache
+E:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\AlphamaConverter.Converter.resources
+E:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\Alphama Converter.Properties.Resources.resources
+E:\Sammi\AutoWikiBrowser5400_AlphamaBot\WikiTool\WikiConverter\obj\x86\Debug\WikiConverter.csproj.GenerateResource.Cache
